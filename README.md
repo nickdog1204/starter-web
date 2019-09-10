@@ -29,3 +29,7 @@ Some Simple changes in README.md
 ## In master, edit sth for Rebase example
 
 In master, do sth
+
+## edit after rebase
+
+edit after rebase on master
