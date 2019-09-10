@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    In "feature" branch, saying thanks to my students
 
 # TECHNOLOGY COLOPHON
 
