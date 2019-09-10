@@ -21,3 +21,7 @@ Sample website with plenty of files for demos
 ## Copyright notice
 
 Adding Copyright 
+
+## Simple changes 
+
+Some Simple changes in README.md
