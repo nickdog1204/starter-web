@@ -18,3 +18,6 @@ Sample website with plenty of files for demos
 
 333 => no staged
 
+## Copyright notice
+
+Adding Copyright 
