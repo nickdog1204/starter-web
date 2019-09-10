@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Nick Hsieh nickdog1204@gmail.com @nickdog1204
 
 # THANKS
 
